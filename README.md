@@ -57,7 +57,7 @@ Each model was trained using the Adam optimizer with `categorical_crossentropy` 
 - **Best Model**: Bidirectional LSTM
 - **Evaluation Metric**: Categorical accuracy and sample text coherence
 - **Sample Outputs**:
- **Temperature = 0.2** (More focused, less creative)  
+> **Temperature = 0.2** (More focused, less creative)  
 ```
 The king walked into the room and sat on his throne. The guards stood in silence.
 ```
